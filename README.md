@@ -33,4 +33,4 @@
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/paulinhoborges) · paulinhoborges1337@gmail.com
+[Currículo online](https://paulinhodeveloper.github.io) · [LinkedIn](https://www.linkedin.com/in/paulinhoborges) · paulinhoborges1337@gmail.com
