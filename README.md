@@ -33,4 +33,4 @@
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/paulinhoborges) · paulinhoborgesbjj@gmail.com
+[LinkedIn](https://www.linkedin.com/in/paulinhoborges) · paulinhoborges1337@gmail.com
