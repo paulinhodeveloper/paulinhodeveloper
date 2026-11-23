@@ -28,7 +28,7 @@
 
 - MBA em Engenharia de Software (em andamento)
 - Especialização em Teste e Qualidade de Software
-- Especialização em Segurança da Informação
+- Pós em Segurança da Informação
 - Tecnólogo em Análise e Desenvolvimento de Sistemas
 
 ## 📫 Contato
